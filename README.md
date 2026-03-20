@@ -1,6 +1,6 @@
  👋 Hey there, I'm Samuel Aigbefo
 
-💻 Front-end Web Developer  
+💻 Full Stack Developer  
 🚀 Building clean, scalable, and creative web experiences  
 🌍 Based in Nigeria | ⚡ Open to freelance gigs & collaborations
 
