@@ -12,7 +12,8 @@ Database: MongoDb
 Version Control: Git
 
 🛠️ Projects I'm Proud Of 
-🔹  — My Portfolio (Next JS + Javascript + Tailwind CSS) 
+🔹  — E-commerce project (Next JS + Typescript + Tailwind CSS + MongoDB) 
+🔹  — My Portfolio (Next JS + Typescript + Tailwind CSS) 
 🔹  — Cartolink Project (Next JS + Javascript + Tailwind CSS)
 🔹  — E-commerce platform (Next JS + Javascript + Tailwind CSS + MongoDB) 
 
