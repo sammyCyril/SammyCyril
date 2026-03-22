@@ -1,13 +1,9 @@
 # 👋 Hey there, I'm Samuel Aigbefo
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" style="border-radius:50%;" />
-</p>
-
-<p align="center">
 💻 Full Stack Developer  
 🚀 Building clean, scalable, and modern web applications  
-🌍 Based in Nigeria | ⚡ Open to freelance & collaborations  
+🌍 Open to freelance & collaborations  
 </p>
 
 ---
@@ -15,7 +11,7 @@
 # 🌐 Portfolio
 
 🔗 **Live Portfolio:**  
-https://your-portfolio-link.vercel.app
+https://my-portfolio-iota-ten-97.vercel.app
 
 ---
 
@@ -72,8 +68,8 @@ I specialize in:
 - Admin dashboard
 - Payment method
 
-🔗 Live Demo: https://your-link.com  
-🔗 GitHub: https://github.com/your-repo  
+🔗 Live Demo: https://graciousmoo.vercel.app  
+🔗 GitHub: https://github.com/sammyCyril/graciousmoo  
 
 ---
 
@@ -86,8 +82,9 @@ I specialize in:
 - Resume download  
 - Contact form integration  
 
-🔗 Live Demo: https://your-link.com  
-🔗 GitHub: https://github.com/your-repo  
+🔗 Live Demo: https: my-portfolio-iota-ten-97.vercel.app 
+🔗 GitHub:   github: https://github.com/sammyCyril/my-portfolio
+  
 
 ---
 
@@ -98,8 +95,8 @@ I specialize in:
 - Responsive layout  
 - Component-based architecture  
 
-🔗 Live Demo: https://your-link.com  
-🔗 GitHub: https://github.com/your-repo  
+🔗 Live Demo: https://cartolinks-ecru.vercel.app  
+🔗 GitHub: https://github.com/sammyCyril/cartolinks  
 
 ---
 
@@ -112,7 +109,7 @@ https://www.linkedin.com/in/aigbefosamuel
 samuelehigale@gmail.com  
 
 🌐 Portfolio  
-https://your-portfolio-link.vercel.app  
+https://my-portfolio-iota-ten-97.vercel.app 
 
 ---
 
